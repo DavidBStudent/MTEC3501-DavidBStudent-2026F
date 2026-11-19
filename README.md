@@ -2,7 +2,7 @@
 
 This repository is **your individual project-development workspace** for MTEC 3501 (and its continuation into ENT 4501 Culmination Project). It is where you research, design, prototype, document, and manage your own project over the course of the semester(s).
 
-➡️ **Main class repository:** [entertainmenttechnology/dbs-MTEC3501-Template](https://github.com/entertainmenttechnology/dbs-MTEC3501-Template) *(update this link to point at your current semester's class repository, e.g. `Smith-MTEC3501-2026S`)*
+➡️ **Main class repository:** [Smith-MTEC3501-2026F](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026F)
 
 The class repository contains course materials, assignments, shared activities, and class resources. **This repository contains the development and documentation of your individual Culmination Project.** Final course deliverables will ultimately be submitted or transferred to the class repository according to course instructions.
 
@@ -10,11 +10,40 @@ The class repository contains course materials, assignments, shared activities, 
 
 ## Project
 
-**Student:**
-**Project Title:**
-**Current Project Description:**
-**MTEC 3501 Semester:**
+**Student:** David B Student
+**GitHub Username:** DavidBStudent
+**Project Title:** Clamorous E.L.F. (Emergent, Live, Framework)
+**Current Project Description:** A collaborative AI-driven interactive media system in which audio, video, environmental input, and human contributions drive evolving generative visuals and sound.
+**MTEC 3501 Semester:** 2026F
 **Instructor:**
+
+### Week 1 Working Description
+
+*Clamorous E.L.F.* is an interactive, live framework for collaborative improvisation among human participants, AI, and environmental stimuli. The system will listen and watch through audio and video inputs, adapt or recombine what it receives, and return a coordinated audiovisual response. Participants act as catalysts rather than audiences: their movement, voices, uploaded media, and remote contributions shape a continuously changing performance.
+
+The immediate development target is a **Proof of Concept** that tests one interaction modality end to end. The larger **Minimum Viable Product** should demonstrate a practical audiovisual listening-and-response loop. The **North Star Vision** includes memory, multi-user and remote participation, additional sensing modalities, and kinetic or robotic environmental feedback.
+
+### Primary Areas of Practice
+
+- Interactive media
+- Generative AI
+- Audio programming and synthesis
+- Computer vision
+- Projection and visual media
+- Installation and participatory performance
+- Adaptive and collaborative systems
+
+### Participant Experience
+
+At minimum, a participant should be able to provide live audio or video input and observe a visible and audible response that feels generated in collaboration rather than merely played back. The experience should become denser as more input enters the system, with accumulated patterns or fragments creating continuity across moments.
+
+### Early Questions
+
+- Which single audiovisual modality is most reliable for a first Proof of Concept?
+- Can AI-generated output extend or reinterpret input clearly enough to feel collaborative?
+- What latency, data, and hardware limits will affect a believable live response?
+- How should the system record and reuse earlier contributions without making the experience repetitive?
+- How can remote participation fit beside in-room audio and video interaction?
 
 ---
 
